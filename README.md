@@ -1,5 +1,9 @@
 # Predicting heart disease using machine learning
 
+Data science project that uses machine learning models to determine
+whether a person has heart disease or not, based on a variety of chosen
+health attributes.
+
 ## Tech stack
 
 * **Python**
